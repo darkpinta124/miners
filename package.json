@@ -7,7 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "author": "https://github.com/dark6s0ul",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "steam-totp": "^2.1.2",
+    "steam-user": "^4.24.0"
   }
 }
