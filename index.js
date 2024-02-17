@@ -1,7 +1,6 @@
 const steamUser = require('steam-user');
 const steamTotp = require('steam-totp');
 const keep_alive = require('./keep_alive.js')
-const notify = require('./notify.js')
 
 var username = process.env.username;
 var password = process.env.password;
